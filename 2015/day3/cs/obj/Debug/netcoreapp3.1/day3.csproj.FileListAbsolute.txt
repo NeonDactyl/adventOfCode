@@ -1,0 +1,11 @@
+/home/trey/projects/adventofcode/2015/day3/cs/bin/Debug/netcoreapp3.1/day3
+/home/trey/projects/adventofcode/2015/day3/cs/bin/Debug/netcoreapp3.1/day3.deps.json
+/home/trey/projects/adventofcode/2015/day3/cs/bin/Debug/netcoreapp3.1/day3.runtimeconfig.json
+/home/trey/projects/adventofcode/2015/day3/cs/bin/Debug/netcoreapp3.1/day3.runtimeconfig.dev.json
+/home/trey/projects/adventofcode/2015/day3/cs/bin/Debug/netcoreapp3.1/day3.dll
+/home/trey/projects/adventofcode/2015/day3/cs/bin/Debug/netcoreapp3.1/day3.pdb
+/home/trey/projects/adventofcode/2015/day3/cs/obj/Debug/netcoreapp3.1/day3.csprojAssemblyReference.cache
+/home/trey/projects/adventofcode/2015/day3/cs/obj/Debug/netcoreapp3.1/day3.AssemblyInfoInputs.cache
+/home/trey/projects/adventofcode/2015/day3/cs/obj/Debug/netcoreapp3.1/day3.AssemblyInfo.cs
+/home/trey/projects/adventofcode/2015/day3/cs/obj/Debug/netcoreapp3.1/day3.dll
+/home/trey/projects/adventofcode/2015/day3/cs/obj/Debug/netcoreapp3.1/day3.pdb
