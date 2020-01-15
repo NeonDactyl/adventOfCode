@@ -16,6 +16,11 @@ namespace cs
 			outputKey = splitUp[1].Trim();
 			inst = new Instruction(splitUp[0]);
 			signalSet = false;
+			if (outputKey == "b")
+			{
+				signal = 3176;
+				signalSet = true;
+			}
 		}
 
 		public ushort getOutputSignal(Dictionary<string, WireConnection> connections)
